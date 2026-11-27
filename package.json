@@ -1,0 +1,13 @@
+{
+  "name": "excuse-after-losing",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.ts",
+  "description": "The excuse an AI agent gives its human after it loses a bounty.",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {}
+}
